@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="consultar">Consultar</string>
+    <string name="insertar">Insertar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="telefono">Telefono</string>
+    <string name="username">usuario</string>
+    <string name="Introducedatosclientes">Introduce los datos del cliente</string>
+    <string name="email">email</string>
+    <string name="confirmar">Confirmar</string>
+</resources>
